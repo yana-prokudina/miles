@@ -11,3 +11,7 @@
 scale = 0 **округление до целого значения**
 
 Roundingmode = floor **округление в меньшую сторону, чтобы учитывать только целое число милей, и не брать в расчет остаток**
+
+Результат запуска кода:
+
+![Run result](https://github.com/yana-prokudina/miles/blob/master/miles.png)
