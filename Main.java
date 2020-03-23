@@ -10,9 +10,5 @@ public class Main {
         BigDecimal bonusmiles = ticketprice.divide(miles,0, RoundingMode.FLOOR); // деление
 
         System.out.println(bonusmiles);
-
     }
 }
-
-
-
